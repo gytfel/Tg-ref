@@ -1,0 +1,8 @@
+# Секреты: полный доступ к аккаунту Telegram
+.env
+*.session
+*.session-journal
+
+.venv/
+__pycache__/
+*.pyc
